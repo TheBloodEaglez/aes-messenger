@@ -1,5 +1,5 @@
 # aes-messenger
-AES-Messenger, cryptography, no sql-db, no nodejs npm etc, written in html, js, and php
+AES-Messenger, extremely small(12kb secure chat) cryptography, no sql-db, no nodejs npm etc, written in html, js, and php
 
 DEMO: http://thecybrarian.hol.es/
 How to use this demo: https://www.youtube.com/watch?v=Qpi8zokMzrw
