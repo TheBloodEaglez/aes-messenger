@@ -4,12 +4,9 @@ AES-Messenger, extremely small(12kb secure chat) cryptography, no sql-db, no nod
 DEMO: http://thecybrarian.hol.es/
 How to use this demo: https://www.youtube.com/watch?v=Qpi8zokMzrw
 sorry for my bad accent I want to eventually change my accent
- Markup : * To Do list
+
+         To Do list
               * Secure password transport method
               * Styling
-          
-         To Do list
-              * Nested bullet
-              * Sub-nested bullet etc
 
 
