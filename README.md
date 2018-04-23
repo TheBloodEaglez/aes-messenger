@@ -8,4 +8,9 @@ sorry for my bad accent I want to eventually change my accent
               * Secure password transport method
               * Styling
           *  To Do list item 2
+          
+           Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
