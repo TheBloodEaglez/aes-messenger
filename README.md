@@ -12,5 +12,5 @@ sorry for my bad accent I want to eventually change my accent
            Markup : * ToDo list
               * Nested bullet
               * Sub-nested bullet etc
-          * ToDo list item 2
+
 
