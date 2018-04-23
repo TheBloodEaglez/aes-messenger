@@ -9,8 +9,8 @@ sorry for my bad accent I want to eventually change my accent
               * Styling
           *  To Do list item 2
           
-           Markup : * Bullet list
+           Markup : * ToDo list
               * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+              * Sub-nested bullet etc
+          * ToDo list item 2
 
